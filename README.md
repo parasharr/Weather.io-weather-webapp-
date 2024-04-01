@@ -8,22 +8,22 @@ Welcome to Weather.io, the intuitive web application that provides real-time wea
 -**5-Day Forecast**: Plan your week wiith a detailed 5-day weather forecast.
 -**Responsive Design**: Access Weather.io on any device, with a layout that adapts to your screen size.
 
-##Getting Started
+## Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
-###Prerequisites
+### Prerequisites
 - A modern web browser
 - Internet connection
 
-###Installation
+### Installation
 - **Clone the repo**: git clone: https://github.com/PranjeetGoswami/weather.io.git
 - Open index.html in your web browser to access the application
 
-##Usage
+## Usage
 Simply enter your location to recive current weather condition and forecasts.
 
-##Acknowledgements
+## Acknowledgements
 - OpenWeatherMap API
 - Font Awesome
 - GetBootstrap

@@ -9,6 +9,7 @@ Welcome to Weather.io, the intuitive web application that provides real-time wea
 -**Responsive Design**: Access Weather.io on any device, with a layout that adapts to your screen size.
 
 ##Getting Started
+
 To get a local copy up and running, follow these simple steps.
 
 ###Prerequisites

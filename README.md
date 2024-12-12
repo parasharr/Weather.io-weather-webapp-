@@ -2,6 +2,9 @@
 
 Welcome to Weather.io, the intuitive web application that provides real-time weather forecasts. It's role is to deliver accurate weather information to help you plan your day with confidence.
 
+## Project Preview
+**URL**: https://weatherio-web.netlify.app/
+
 ## Features
 
 -**Live Weather Data**: Get up-to-the-minute weather updates for your location or any location.

@@ -8,7 +8,9 @@ Welcome to Weather.io, the intuitive web application that provides real-time wea
 ## Features
 
 -**Live Weather Data**: Get up-to-the-minute weather updates for your location or any location.
+
 -**5-Day Forecast**: Plan your week wiith a detailed 5-day weather forecast.
+
 -**Responsive Design**: Access Weather.io on any device, with a layout that adapts to your screen size.
 
 ## Getting Started
